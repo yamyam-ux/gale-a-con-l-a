@@ -7,7 +7,7 @@ git config --global --list
 git status
 git add .
 git status
-git commit -m "galeria miamia"
+git commit -m "galeria mia"
 git remote add origin https://github.com/yamyam-ux/gale-a-con-l-a.git
 git remote -v
 git branch -M main
